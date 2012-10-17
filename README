@@ -1,0 +1,5 @@
+# VincySentinel
+# Block: SQL Injection, RFI, LFI, RCE and XSS.
+# Anti CSRF.
+# Analyze all requests: POST, GET and COOKIE.
+# Block some connections made from Perl code (Where user agent is not set).
